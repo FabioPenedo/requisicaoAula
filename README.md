@@ -22,7 +22,7 @@ git clone https://github.com/FabioPenedo/requisicaoAula
 Entre na pasta do projeto
 
 ```bash
-cd lista-de-universidades
+cd requisiçãoAula
 ```
 
 Instale as dependências globais
