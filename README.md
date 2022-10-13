@@ -40,7 +40,7 @@ npm install
 Inicie o servidor
 
 ```bash
-npm run start-dev
+npm run dev
 ```
 
 Feito por Fábio Penedo: 👋 [Entre em contato](https://www.linkedin.com/in/fabiopenedo/)
